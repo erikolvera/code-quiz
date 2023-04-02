@@ -1,0 +1,24 @@
+.text-large {
+    font-size: 130%;
+    padding-top: 20px;
+}
+
+.scores {
+    position: absolute;
+    font-size: 20px;
+    top: 20px;
+    left: 25px;
+    
+}
+
+.timer {
+    position: absolute;
+    font-size: 20px;
+    top: 20px;
+    right: 25px;
+}
+
+a {
+    color: rgb(50, 135, 205);
+}
+
