@@ -22,3 +22,27 @@ a {
     color: rgb(50, 135, 205);
 }
 
+.hidden {
+    display: none;
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+  }
+  .choices button {
+    display: block;
+    display: inline-block;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 150%;
+    border-radius: 20px;
+    border: 0;
+  }  
+
+  .center-items {
+    font-size: 25px;
+    padding: 50px;
+    margin-top: 150px;
+    margin-left: 250px;
+  }
